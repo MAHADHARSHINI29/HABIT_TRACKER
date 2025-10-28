@@ -1,0 +1,231 @@
+{
+  "users": {
+    "HBXDmsFVyeePOILyxgD85a4foJh1": {
+      "email": "username@example.com",
+      "username": "Example",
+
+      "habits": {
+        "-O_g7x-WBaMHGJhP3NDu": {
+          "name": "Read a book",
+          "category": "learning",
+          "difficulty": "Hard",
+          "completed": false,
+          "reminderTime": "17:29",
+          "streak": 7,
+          "history": {
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_abc1HabitLearning": {
+          "name": "Watch a tutorial video",
+          "category": "learning",
+          "difficulty": "Easy",
+          "completed": true,
+          "reminderTime": "20:00",
+          "streak": 12,
+          "history": {
+            "2025-09-10": true,
+            "2025-09-11": true,
+            "2025-09-12": true,
+            "2025-09-13": false,
+            "2025-09-14": true,
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_gccB2vhAsrkvltuk8": {
+          "name": "Go to gym",
+          "category": "fitness",
+          "difficulty": "Hard",
+          "completed": false,
+          "reminderTime": "19:47",
+          "streak": 1,
+          "history": {
+            "2025-09-21": true
+          }
+        },
+        "-O_abc2HabitFitness": {
+          "name": "Evening yoga session",
+          "category": "fitness",
+          "difficulty": "Moderate",
+          "completed": true,
+          "reminderTime": "18:30",
+          "streak": 4,
+          "history": {
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_xyz1abcdHabit01": {
+          "name": "Drink 2L of water",
+          "category": "health",
+          "difficulty": "Easy",
+          "completed": true,
+          "reminderTime": "09:00",
+          "streak": 15,
+          "history": {
+            "2025-09-07": true,
+            "2025-09-08": true,
+            "2025-09-09": true,
+            "2025-09-10": true,
+            "2025-09-11": true,
+            "2025-09-12": true,
+            "2025-09-13": true,
+            "2025-09-14": true,
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_abc3HabitHealth": {
+          "name": "Eat a fruit daily",
+          "category": "health",
+          "difficulty": "Easy",
+          "completed": false,
+          "reminderTime": "12:30",
+          "streak": 6,
+          "history": {
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": false,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": false
+          }
+        },
+        "-O_xyz2abcdHabit02": {
+          "name": "Meditate for 10 min",
+          "category": "mental health",
+          "difficulty": "Moderate",
+          "completed": false,
+          "reminderTime": "06:30",
+          "streak": 32,
+          "history": {
+            "2025-08-21": true,
+            "2025-08-22": true,
+            "2025-08-23": true,
+            "2025-08-24": true,
+            "2025-08-25": true,
+            "2025-08-26": true,
+            "2025-08-27": true,
+            "2025-08-28": true,
+            "2025-08-29": true,
+            "2025-08-30": true,
+            "2025-08-31": true,
+            "2025-09-01": true,
+            "2025-09-02": true,
+            "2025-09-03": true,
+            "2025-09-04": true,
+            "2025-09-05": true,
+            "2025-09-06": true,
+            "2025-09-07": true,
+            "2025-09-08": true,
+            "2025-09-09": true,
+            "2025-09-10": true,
+            "2025-09-11": true,
+            "2025-09-12": true,
+            "2025-09-13": true,
+            "2025-09-14": true,
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_abc4HabitMental": {
+          "name": "Daily gratitude journaling",
+          "category": "mental health",
+          "difficulty": "Easy",
+          "completed": true,
+          "reminderTime": "22:00",
+          "streak": 10,
+          "history": {
+            "2025-09-12": true,
+            "2025-09-13": true,
+            "2025-09-14": true,
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": false,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_xyz3abcdHabit03": {
+          "name": "Write daily journal",
+          "category": "productivity",
+          "difficulty": "Moderate",
+          "completed": false,
+          "reminderTime": "21:00",
+          "streak": 5,
+          "history": {
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": true,
+            "2025-09-21": true
+          }
+        },
+        "-O_abc5HabitProductivity": {
+          "name": "Plan tomorrow's tasks",
+          "category": "productivity",
+          "difficulty": "Moderate",
+          "completed": true,
+          "reminderTime": "22:30",
+          "streak": 8,
+          "history": {
+            "2025-09-15": true,
+            "2025-09-16": true,
+            "2025-09-17": true,
+            "2025-09-18": true,
+            "2025-09-19": true,
+            "2025-09-20": false,
+            "2025-09-21": true
+          }
+        }
+      },
+
+      "challenges": {
+        "-O_lCtkbWsgFMGvSsKJf": {
+          "title": "30-Day Fitness Challenge",
+          "description": "Complete a workout every day for 30 days",
+          "progress": 5,
+          "goal": 30
+        },
+        "-O_lCtkbWsgFMGvSsKJg": {
+          "title": "Hydration Challenge",
+          "description": "Drink 8 glasses of water daily for a week",
+          "progress": 6,
+          "goal": 7
+        }
+      },
+
+      "streaks": {
+        "currentStreak": 12,
+        "longestStreak": 32,
+        "lastUpdated": "2025-09-21"
+      }
+    }
+  }
+}
