@@ -103,7 +103,7 @@ function Login() {
       >
         <Orbit className="w-6 h-6 sm:w-8 sm:h-8 text-pink-400 drop-shadow-md animate-spin-slow" />
         <span className="text-xl sm:text-2xl font-bold tracking-wide">
-          Orbit
+          HabiHobby
         </span>
       </div>
 

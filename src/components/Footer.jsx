@@ -12,40 +12,13 @@ const Footer = () => {
         {/* Branding */}
         <div>
           <h3 className="text-sm sm:text-base font-bold bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-500 bg-clip-text text-transparent tracking-wide">
-            Orbit – Build Better Habits 🚀
+            HabiHobby – Build Better Habits 🚀
           </h3>
           <p className="text-xs text-gray-400">
-            &copy; {year} Orbit. All Rights Reserved.
+            &copy; {year} HabiHobby. All Rights Reserved.
           </p>
         </div>
 
-        {/* Social + Links */}
-        <div className="flex items-center gap-4">
-          {/* Divider - only on desktop */}
-          <span className="hidden sm:block h-4 w-px bg-gray-600/40" />
-
-          {/* Social icons */}
-          <div className="flex gap-4 text-lg text-gray-400">
-            <a
-              href="https://github.com/CodeWithQadeer"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="GitHub"
-              className="hover:text-indigo-400 transition-transform hover:scale-110"
-            >
-              <FaGithub />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/syed-abdul-qadeer-4a2896313/"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="LinkedIn"
-              className="hover:text-purple-400 transition-transform hover:scale-110"
-            >
-              <FaLinkedin />
-            </a>
-          </div>
-        </div>
       </div>
     </footer>
   );

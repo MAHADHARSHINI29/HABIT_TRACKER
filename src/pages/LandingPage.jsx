@@ -46,7 +46,7 @@ const LandingPage = () => {
       <div className="absolute top-4 sm:top-6 left-4 sm:left-6 flex items-center gap-2 z-20">
         <Orbit className="w-6 h-6 sm:w-8 sm:h-8 text-pink-400 drop-shadow-md animate-spin-slow" />
         <span className="text-xl sm:text-2xl font-bold tracking-wide">
-          Orbit
+          HabiHobby
         </span>
       </div>
 
@@ -62,11 +62,11 @@ const LandingPage = () => {
 
       <div className="text-center max-w-2xl sm:max-w-3xl relative z-10">
         {/* Heading */}
-        <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold drop-shadow-lg leading-snug">
+        <h1 className="text-3xl sm:text-5xl md:text-4xl font-extrabold drop-shadow-lg leading-snug">
           <div className="mt-20 flex items-center gap-2 sm:gap-3 justify-center">
             <Orbit className="w-8 h-8 sm:w-10 sm:h-10 text-pink-300 animate-spin-slow" />
             <DecryptedText
-              text={`Stay in your Orbit,\nBuild better habits`}
+              text={`Small habits,Big change!!Track today,transform tomorrow.`}
               animateOn="view"
               revealDirection="center"
             />
