@@ -1,0 +1,35 @@
+pipeline {
+    agent any
+
+    tools {
+        nodejs 'nodejs'
+    }
+
+    stages {
+        stage('Checkout Code') {
+            steps {
+                git branch: 'main', url: 'https://github.com/MAHADHARSHINI29/HABIT_TRACKER.git'
+            }
+        }
+        stage('Install Dependencies') {
+            steps {
+                bat 'npm install'
+            }
+        }
+        stage('Build') {
+            steps {
+                bat 'npm run build'
+            }
+        }
+        
+    }
+
+    post {
+        success {
+            echo 'Build successful '
+        }
+        failure {
+            echo 'Build or deployment failed '
+        }
+    }
+}
